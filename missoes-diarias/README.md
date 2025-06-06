@@ -1,4 +1,4 @@
-# Dsenvolvido por
+# Desenvolvido por
 
 - João Guilherme Dias Farias
 - 2222130010
